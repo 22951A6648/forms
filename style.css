@@ -1,0 +1,25 @@
+body{
+    background-color:cadetblue;
+    background-image: url(4.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100px;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    font-display: black;
+    border-style: groove;
+    border-width: 20px;
+    border-color: aqua;
+    background-color:pink;
+    font-family: '- UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: dashed;
+    border-bottom: dashed;
+    border-color:black;
+    border-right: dashed;
+    border-left: dashed;
+    opacity:0.5;
+    margin-top: 50px;  
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
